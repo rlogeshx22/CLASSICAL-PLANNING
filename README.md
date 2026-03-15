@@ -1,5 +1,5 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-<h3>Name:LOGESH R
+<h3>Name:R LOGESH 
 <h3>Register Number: 212224020024
   
 ### AIM :
